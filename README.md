@@ -1,5 +1,5 @@
 # [Mafia] Main Menu Texture Upscale (2022)
-A mod for Mafia: The City of Lost Heaven (2002)
+A mod for Mafia: The City of Lost Heaven (2002).
 
 - Each relevant texture for the Main Menu scene has been upscaled 6x by various models in Gigapixel AI, then finalised in Photoshop
 - Some have worked better than others, but I've tried my hardest to stay faithful to the original visuals
